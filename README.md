@@ -117,8 +117,8 @@ $ ping arisha-ansari --connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:YOUR-EMAIL-HERE)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/arisha-ansari-776514380/)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:ansariarisha001@gmail.com)
 
 </div>
 
