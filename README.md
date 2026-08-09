@@ -1,116 +1,128 @@
-<h1 align="center">Hi 👋, I'm Arisha</h1>
-<h3 align="center">Full Stack (MERN) Developer | CS Student | Building real things, not just tutorials</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;MERN+%2B+TypeScript;Currently+grinding+DSA;Always+shipping+something" alt="typing-svg" />
-</p>
+```
+┌─────────────────────────────────────────────┐
+│  guest@arisha-ansari:~$ whoami                │
+└─────────────────────────────────────────────┘
+```
 
----
+# arisha-ansari
 
-### 🎯 About Me
+</div>
 
-- 💻 CS student, heading into 3rd year (DSA, Computer Architecture, Complex Variables & Fourier Analysis on the way)
-- 🚀 Wrapped up a full-stack internship at **DevelopersHub Corporation**
-- 🏗️ Currently building **Business Nexus** — a MERN + TypeScript platform connecting entrepreneurs and investors (auth, meeting scheduling, WebRTC video calls, document e-signing)
-- 📦 Shipped **ecommerce-fullstack-design** — a deployed full-stack MERN store (Railway + Vercel)
-- 🩺 Contributed to **MedSync** — a role-based clinic/pharmacy management system (ASP.NET Core MVC, EF Core, SQL Server)
-- 🧠 Grinding DSA before the semester lands
-- 📍 Based in Karachi, Pakistan
+```bash
+$ cat about.txt
+```
+```
+> Full Stack Developer (MERN) | CS Student | Karachi, PK
+> Currently: 3rd-year incoming — DSA, Computer Architecture, Complex Variables
+> Status: shipping stuff, breaking stuff, fixing stuff
+```
 
----
+```bash
+$ ls -la projects/
+```
 
-### 🛠️ Tech Stack
+```
+drwxr-xr-x  business-nexus/          MERN + TS · entrepreneur↔investor platform
+drwxr-xr-x  ecommerce-fullstack/     MERN · deployed (Railway + Vercel)
+drwxr-xr-x  medsync/                 ASP.NET Core MVC · role-based clinic system
+```
 
-**Languages**
-<p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+```bash
+$ cat business-nexus/README.md
+```
+```
+Full-stack platform connecting entrepreneurs with investors.
+Features: profile discovery, secure messaging, meeting scheduling
+with conflict detection, WebRTC video calls, document e-signing.
 
-**Frontend**
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+stack:
+  frontend: [Vite, React, TypeScript, TailwindCSS]
+  backend:  [Node.js, Express, MongoDB]
+  realtime: [Socket.IO]
+  auth:     [JWT]
 
-**Backend & Databases**
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
-</p>
+status: shipped ✓
+```
 
-**Tools**
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
-</p>
+```bash
+$ cat ecommerce-fullstack/README.md
+```
+```
+Full-stack e-commerce app with admin panel + protected routes.
 
----
+stack:
+  frontend: [React → Vercel]
+  backend:  [Node.js, Express → Railway]
+  database: [MongoDB]
+  auth:     [JWT, bcrypt]
 
-### 🚀 Featured Projects
+status: deployed ✓
+```
 
-#### 🤝 Business Nexus
-Full-stack MERN + TypeScript platform connecting entrepreneurs with investors — profile discovery, secure messaging, meeting scheduling with conflict detection, WebRTC video calls, and document e-signing.
+```bash
+$ cat medsync/README.md
+```
+```
+Role-based clinic & pharmacy management system.
+University team project.
 
-| Layer | Technology |
-|---|---|
-| Frontend | Vite, React, TypeScript, Tailwind |
-| Backend | Node.js, Express, MongoDB (Mongoose discriminators) |
-| Real-time | Socket.IO (signaling, chat) |
-| Auth | JWT |
+stack:
+  backend:  [ASP.NET Core MVC, Entity Framework Core]
+  database: [SQL Server]
+  auth:     [ASP.NET Identity — role-based]
 
----
+status: shipped ✓
+```
 
-#### 🛒 E-commerce Full Stack
-A deployed full-stack MERN e-commerce app with an admin panel and protected routes.
+```bash
+$ ./stack.sh --list
+```
 
-| Layer | Technology |
-|---|---|
-| Frontend | React, deployed on Vercel |
-| Backend | Node.js, Express, deployed on Railway |
-| Database | MongoDB |
-| Auth | JWT + bcrypt |
+```
+[languages]   JavaScript · TypeScript · C++ · HTML · CSS
+[frontend]    React · Vite · Tailwind · Bootstrap
+[backend]     Node.js · Express · ASP.NET Core
+[database]    MongoDB · SQL Server
+[realtime]    Socket.IO · WebRTC
+[tools]       Git · GitHub · Vercel · Railway
+```
 
----
+```bash
+$ curl -s api.github.com/users/arisha-ansari/stats
+```
 
-#### 🩺 MedSync
-Role-based clinic and pharmacy management system built as a university team project.
+<div align="center">
 
-| Layer | Technology |
-|---|---|
-| Backend | ASP.NET Core MVC, Entity Framework Core |
-| Database | SQL Server |
-| Auth | ASP.NET Identity (role-based) |
+<img src="https://github-readme-stats.vercel.app/api?username=Arisha-Ansari&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" alt="stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arisha-Ansari&theme=github-dark-blue&hide_border=true&background=0d1117" alt="streak" height="165"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arisha-Ansari&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" alt="top langs"/>
 
-### 📊 GitHub Stats
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arisha-Ansari&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arisha-Ansari&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165"/>
-</p>
+```bash
+$ ping arisha-ansari --connect
+```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arisha-Ansari&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF00)](mailto:YOUR-EMAIL-HERE)
 
-### 📫 Connect With Me
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR-EMAIL-HERE"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+```bash
+$ echo $STATUS
+```
+```
+> currently grinding DSA before semester lands
+> always open to collab — MERN / .NET / anything that ships
+```
+
+<div align="center">
+
+`connection closed.`
+
+</div>
