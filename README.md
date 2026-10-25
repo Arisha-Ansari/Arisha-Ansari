@@ -1,131 +1,144 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&height=60&lines=guest%40arisha-ansari%3A~%24+whoami;Full+Stack+Developer+(MERN);Currently%3A+grinding+DSA...;Status%3A+shipping+%2B+breaking+%2B+fixing" alt="Typing SVG" />
+# Arisha Ansari
+
+**Full Stack Developer · Software Engineering Student · Karachi, Pakistan**
+
+I build MERN and ASP.NET Core applications and learn by shipping them. Currently going deep on Data Structures & Algorithms ahead of third year (DSA, Computer Architecture, Complex Variables & Fourier Analysis).
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arisha-ansari-776514380/)
+[![Email](https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ansariarisha001@gmail.com)
 
 </div>
 
+---
+
+## Tech Stack
+
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,cpp&theme=dark" alt="JavaScript, TypeScript, C++" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,bootstrap&theme=dark" alt="HTML, CSS, React, Vite, Tailwind, Bootstrap" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,dotnet&theme=dark" alt="Node.js, Express, ASP.NET Core" /></td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,mssql&theme=dark" alt="MongoDB, SQL Server" /></td>
+  </tr>
+  <tr>
+    <td><b>Tools &amp; Deployment</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vercel&theme=dark" alt="Git, GitHub, Vercel" /> &nbsp;Railway</td>
+  </tr>
+</table>
+
+<sub>Also used in projects: Socket.IO, JWT, bcrypt, Entity Framework Core, ASP.NET Identity.</sub>
+
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td>
+
+### [Business Nexus](https://github.com/Arisha-Ansari/business-nexus)
+**Full-stack platform connecting entrepreneurs with investors.**
+
+<img src="https://skillicons.dev/icons?i=vite,react,ts,tailwind,nodejs,express,mongodb&theme=dark" alt="Business Nexus stack" /> &nbsp;Socket.IO · JWT
+
+**Problem solved:** Entrepreneurs and investors need one place to find each other, talk, and close the loop without juggling separate tools.
+
+**Key features:**
+- Profile discovery for both roles
+- Secure messaging
+- Meeting scheduling with conflict detection
+- WebRTC video calls
+- Document e-signing
+
+<!-- CONFIRM before publishing:
+  Technical highlights: 1-2 real implementation details (e.g. how conflict detection works, how signaling is done for WebRTC).
+  My contribution: what YOU built vs. what was provided (internship project).
+  Live demo: add only if one exists. -->
+
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+
+### [E-commerce Fullstack](https://github.com/Arisha-Ansari/ecommerce-fullstack)
+**Full-stack e-commerce app with an admin panel and protected routes.**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,vercel&theme=dark" alt="E-commerce stack" /> &nbsp;Railway · JWT · bcrypt
+
+**Problem solved:** A complete storefront with separate customer and admin access, deployed end to end.
+
+**Key features:**
+- Admin panel
+- Protected routes with JWT authentication
+- Password hashing with bcrypt
+- Frontend on Vercel, backend on Railway
+
+<!-- CONFIRM before publishing:
+  Live demo URL (Vercel link) - add as [Live Demo](url) if it is still up.
+  Technical highlights: e.g. how role checks are enforced, cart/order data model.
+  My contribution. -->
+
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+
+### [MedSync](https://github.com/Arisha-Ansari/medsync)
+**Role-based clinic and pharmacy management system.** University team project.
+
+<img src="https://skillicons.dev/icons?i=dotnet,mssql&theme=dark" alt="MedSync stack" /> &nbsp;Entity Framework Core · ASP.NET Identity
+
+**Problem solved:** Clinics and pharmacies need different users to see and do different things in one system.
+
+**Key features:**
+- Role-based access using ASP.NET Identity
+- ASP.NET Core MVC architecture
+- SQL Server database through Entity Framework Core
+
+<!-- CONFIRM before publishing:
+  Technical highlights: e.g. roles defined, schema design.
+  My contribution: which modules/features YOU owned in the team.
+  Repo visibility: confirm the repo is public. -->
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Stats
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0d1117&height=120&section=header&text=&fontColor=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api?username=Arisha-Ansari&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9" alt="GitHub stats" height="165" />
 
 </div>
 
-```bash
-$ cat about.txt
-```
-```diff
-+ Full Stack Developer (MERN) | CS Student | Karachi, PK
-+ Currently: 3rd-year incoming — DSA, Computer Architecture, Complex Variables
-+ Status: shipping stuff, breaking stuff, fixing stuff
-```
+---
 
-```bash
-$ ls -la projects/
-```
-```diff
-+ business-nexus/          MERN + TS · entrepreneur↔investor platform · shipped ✓
-+ ecommerce-fullstack/     MERN · deployed (Railway + Vercel) · shipped ✓
-+ medsync/                 ASP.NET Core MVC · role-based clinic system · shipped ✓
-```
+## Currently Working On
 
-<details>
-<summary>$ cat business-nexus/README.md <i>(click to expand)</i></summary>
-
-```yaml
-description: Full-stack platform connecting entrepreneurs with investors.
-             Profile discovery, secure messaging, meeting scheduling with
-             conflict detection, WebRTC video calls, document e-signing.
-stack:
-  frontend: [Vite, React, TypeScript, TailwindCSS]
-  backend:  [Node.js, Express, MongoDB]
-  realtime: [Socket.IO]
-  auth:     [JWT]
-status: shipped ✓
-```
-</details>
-
-<details>
-<summary>$ cat ecommerce-fullstack/README.md <i>(click to expand)</i></summary>
-
-```yaml
-description: Full-stack e-commerce app with admin panel + protected routes.
-stack:
-  frontend: [React → Vercel]
-  backend:  [Node.js, Express → Railway]
-  database: [MongoDB]
-  auth:     [JWT, bcrypt]
-status: deployed ✓
-```
-</details>
-
-<details>
-<summary>$ cat medsync/README.md <i>(click to expand)</i></summary>
-
-```yaml
-description: Role-based clinic & pharmacy management system.
-             University team project.
-stack:
-  backend:  [ASP.NET Core MVC, Entity Framework Core]
-  database: [SQL Server]
-  auth:     [ASP.NET Identity — role-based]
-status: shipped ✓
-```
-</details>
-
-```bash
-$ ./stack.sh --list
-```
+- Data Structures & Algorithms, ahead of the third-year semester
+- Looking to collaborate on MERN or .NET projects
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,html,css,react,vite,tailwind,bootstrap,nodejs,express,dotnet,mongodb,mssql,git,github,vercel&theme=dark" />
-
-</div>
-
-```bash
-$ curl -s api.github.com/users/arisha-ansari/stats
-```
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Arisha-Ansari&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&icon_color=00FF41&title_color=00FF41" alt="stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arisha-Ansari&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="streak" height="165"/>
-
-</div>
-
-```bash
-$ git log --graph --oneline --all
-```
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arisha-Ansari&theme=react-dark&hide_border=true&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff" alt="activity graph" />
-
-</div>
-
-```bash
-$ echo $STATUS
-```
-```diff
-+ currently grinding DSA before semester lands
-+ always open to collab — MERN / .NET / anything that ships
-```
-
-```bash
-$ ping arisha-ansari --connect
-```
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/arisha-ansari-776514380/)
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:ansariarisha001@gmail.com)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=100&section=footer" />
-
-<sub>`connection closed.`</sub>
-
+<sub>Built and maintained by hand. Updated as projects ship.</sub>
 </div>
