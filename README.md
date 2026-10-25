@@ -1,14 +1,22 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=4169E1&center=true&vCenter=true&width=560&height=50&lines=Arisha+Ansari;Full+Stack+Developer;MERN+%2B+ASP.NET+Core;Software+Engineering+Student" alt="Arisha Ansari - Full Stack Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=4169E1&center=true&vCenter=true&width=560&height=50&lines=Arisha+Ansari;Software+Engineering+Student;Building+Full+Stack+Projects;Leveling+up+MERN+%2B+DSA" alt="Arisha Ansari - Software Engineering Student" />
 
 **Karachi, Pakistan**
 
-I build MERN and ASP.NET Core applications and learn by shipping them. Currently going deep on Data Structures & Algorithms.
+Software Engineering student building full-stack projects with MERN and ASP.NET Core. Currently leveling up my MERN skills and Data Structures & Algorithms.
 
-[Tech Stack](#tech-stack) · [Projects](#featured-projects) · [Stats](#github-stats) · [Contact](#contact)
+[About](#about-me) · [Tech Stack](#tech-stack) · [Projects](#featured-projects) · [Stats](#github-stats) · [Contact](#contact)
 
 </div>
+
+---
+
+## About Me
+
+I'm a Software Engineering student from Karachi who learns by building. So far that means three full-stack projects: an entrepreneur-investor platform (MERN + TypeScript), an e-commerce app with an admin panel, and a role-based clinic management system in ASP.NET Core.
+
+Right now I'm sharpening my MERN skills and working through Data Structures & Algorithms.
 
 ---
 
@@ -150,6 +158,7 @@ I build MERN and ASP.NET Core applications and learn by shipping them. Currently
 
 ## Currently Working On
 
+- Strengthening my MERN stack skills
 - Data Structures & Algorithms
 - Looking to collaborate on MERN or .NET projects
 
