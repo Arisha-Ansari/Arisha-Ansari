@@ -161,6 +161,7 @@ I build MERN and ASP.NET Core applications and learn by shipping them. Currently
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arisha-ansari-776514380/)
 [![Email](https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ansariarisha001@gmail.com)
+[![CV](https://img.shields.io/badge/Download_CV-1E3A8A?style=for-the-badge&logo=readthedocs&logoColor=white)](Arisha_Ansari_CV.pdf)
 
 <sub>[Back to top](#)</sub>
 
