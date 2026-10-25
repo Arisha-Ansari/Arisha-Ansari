@@ -1,13 +1,12 @@
 <div align="center">
 
-# Arisha Ansari
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=4169E1&center=true&vCenter=true&width=560&height=50&lines=Arisha+Ansari;Full+Stack+Developer;MERN+%2B+ASP.NET+Core;Software+Engineering+Student" alt="Arisha Ansari - Full Stack Developer" />
 
-**Full Stack Developer · Software Engineering Student · Karachi, Pakistan**
+**Karachi, Pakistan**
 
-I build MERN and ASP.NET Core applications and learn by shipping them. Currently going deep on Data Structures & Algorithms ahead of third year (DSA, Computer Architecture, Complex Variables & Fourier Analysis).
+I build MERN and ASP.NET Core applications and learn by shipping them. Currently going deep on Data Structures & Algorithms.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arisha-ansari-776514380/)
-[![Email](https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ansariarisha001@gmail.com)
+[Tech Stack](#tech-stack) · [Projects](#featured-projects) · [Stats](#github-stats) · [Contact](#contact)
 
 </div>
 
@@ -44,6 +43,8 @@ I build MERN and ASP.NET Core applications and learn by shipping them. Currently
 
 ## Featured Projects
 
+<sub>Click "Key features" under each project to expand.</sub>
+
 <table>
   <tr>
     <td>
@@ -55,16 +56,20 @@ I build MERN and ASP.NET Core applications and learn by shipping them. Currently
 
 **Problem solved:** Entrepreneurs and investors need one place to find each other, talk, and close the loop without juggling separate tools.
 
-**Key features:**
+<details>
+<summary><b>Key features</b></summary>
+
 - Profile discovery for both roles
 - Secure messaging
 - Meeting scheduling with conflict detection
 - WebRTC video calls
 - Document e-signing
 
+</details>
+
 <!-- CONFIRM before publishing:
-  Technical highlights: 1-2 real implementation details (e.g. how conflict detection works, how signaling is done for WebRTC).
-  My contribution: what YOU built vs. what was provided (internship project).
+  Technical highlights: 1-2 real implementation details (how conflict detection works, how WebRTC signaling is done).
+  My contribution: what YOU built.
   Live demo: add only if one exists. -->
 
     </td>
@@ -82,15 +87,19 @@ I build MERN and ASP.NET Core applications and learn by shipping them. Currently
 
 **Problem solved:** A complete storefront with separate customer and admin access, deployed end to end.
 
-**Key features:**
+<details>
+<summary><b>Key features</b></summary>
+
 - Admin panel
 - Protected routes with JWT authentication
 - Password hashing with bcrypt
 - Frontend on Vercel, backend on Railway
 
+</details>
+
 <!-- CONFIRM before publishing:
-  Live demo URL (Vercel link) - add as [Live Demo](url) if it is still up.
-  Technical highlights: e.g. how role checks are enforced, cart/order data model.
+  Live demo URL (Vercel link) - add as [Live Demo](url) if still up.
+  Technical highlights: how role checks are enforced, cart/order data model.
   My contribution. -->
 
     </td>
@@ -108,15 +117,19 @@ I build MERN and ASP.NET Core applications and learn by shipping them. Currently
 
 **Problem solved:** Clinics and pharmacies need different users to see and do different things in one system.
 
-**Key features:**
+<details>
+<summary><b>Key features</b></summary>
+
 - Role-based access using ASP.NET Identity
 - ASP.NET Core MVC architecture
 - SQL Server database through Entity Framework Core
 
+</details>
+
 <!-- CONFIRM before publishing:
-  Technical highlights: e.g. roles defined, schema design.
-  My contribution: which modules/features YOU owned in the team.
-  Repo visibility: confirm the repo is public. -->
+  Technical highlights: roles defined, schema design.
+  My contribution: which modules YOU owned in the team.
+  Repo visibility: confirm it is public. -->
 
     </td>
   </tr>
@@ -129,6 +142,7 @@ I build MERN and ASP.NET Core applications and learn by shipping them. Currently
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Arisha-Ansari&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arisha-Ansari&layout=compact&hide_border=true&bg_color=0d1117&title_color=4169E1&text_color=c9d1d9" alt="Top languages" height="165" />
 
 </div>
 
@@ -136,9 +150,18 @@ I build MERN and ASP.NET Core applications and learn by shipping them. Currently
 
 ## Currently Working On
 
-- Data Structures & Algorithms, ahead of the third-year semester
+- Data Structures & Algorithms
 - Looking to collaborate on MERN or .NET projects
 
+---
+
+## Contact
+
 <div align="center">
-<sub>Built and maintained by hand. Updated as projects ship.</sub>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arisha-ansari-776514380/)
+[![Email](https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ansariarisha001@gmail.com)
+
+<sub>[Back to top](#)</sub>
+
 </div>
