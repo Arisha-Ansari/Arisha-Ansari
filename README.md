@@ -4,7 +4,7 @@
 
 **Karachi, Pakistan**
 
-Software Engineering student building full-stack projects with MERN and ASP.NET Core. Currently leveling up my MERN skills and Data Structures & Algorithms.
+Software Engineering student building full-stack projects with MERN, ASP.NET Core and Flask. Currently leveling up my MERN skills and Data Structures & Algorithms.
 
 [About](#about-me) · [Tech Stack](#tech-stack) · [Projects](#featured-projects) · [Stats](#github-stats) · [Contact](#contact)
 
@@ -14,7 +14,7 @@ Software Engineering student building full-stack projects with MERN and ASP.NET 
 
 ## About Me
 
-I'm a Software Engineering student from Karachi who learns by building. So far that means three full-stack projects: an entrepreneur-investor platform (MERN + TypeScript), an e-commerce app with an admin panel, and a role-based clinic management system in ASP.NET Core.
+I'm a Software Engineering student from Karachi who learns by building. So far that means four full-stack projects: a Flask app that teaches parents and grandparents to use banking and spot scams, an entrepreneur-investor platform (MERN + TypeScript), an e-commerce app with an admin panel, and a role-based clinic management system in ASP.NET Core.
 
 Right now I'm sharpening my MERN skills and working through Data Structures & Algorithms.
 
@@ -25,7 +25,7 @@ Right now I'm sharpening my MERN skills and working through Data Structures & Al
 <table>
   <tr>
     <td><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=js,ts,cpp&theme=dark" alt="JavaScript, TypeScript, C++" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,cpp,py&theme=dark" alt="JavaScript, TypeScript, C++, Python" /></td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
@@ -33,11 +33,11 @@ Right now I'm sharpening my MERN skills and working through Data Structures & Al
   </tr>
   <tr>
     <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,dotnet&theme=dark" alt="Node.js, Express, ASP.NET Core" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,flask&theme=dark" alt="Node.js, Express, ASP.NET Core, Flask" /></td>
   </tr>
   <tr>
     <td><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,mssql&theme=dark" alt="MongoDB, SQL Server" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,mssql,sqlite&theme=dark" alt="MongoDB, SQL Server, SQLite" /></td>
   </tr>
   <tr>
     <td><b>Tools &amp; Deployment</b></td>
@@ -45,13 +45,46 @@ Right now I'm sharpening my MERN skills and working through Data Structures & Al
   </tr>
 </table>
 
-<sub>Also used in projects: Socket.IO, JWT, bcrypt, Entity Framework Core, ASP.NET Identity.</sub>
+<sub>Also used in projects: Socket.IO, JWT, bcrypt, Entity Framework Core, ASP.NET Identity, Jinja, Google Gemini API.</sub>
 
 ---
 
 ## Featured Projects
 
 <sub>Click "Key features" under each project to expand.</sub>
+
+<table>
+  <tr>
+    <td>
+
+### [qadam.](https://github.com/Arisha-Ansari/qadam)
+**A safe place for parents and grandparents to learn banking, video calls, forms and scam-spotting by doing, not just watching.** Built for the Build4Better Hackathon (Codesphere 3.0), NED University.
+
+<img src="https://skillicons.dev/icons?i=py,flask,sqlite,html,css,js&theme=dark" alt="qadam stack" /> &nbsp;Jinja · Gemini API (optional)
+
+**Problem solved:** Older family members avoid banking apps and online forms because they fear breaking something or getting scammed. qadam. lets them practice in simulated rooms where mistakes cost nothing, and builds a confidence score along the way.
+
+<details>
+<summary><b>Key features</b></summary>
+
+- 8 short lessons with mock phone screens that highlight exactly what to tap
+- Practice rooms: bank sandbox, form room, and a video call rehearsal using the real camera and mic permission
+- Form Whisperer: explains confusing form fields (CNIC, domicile and more) in simple English and Roman Urdu, then checks practice answers
+- Scam Dojo: spot real vs scam messages with highlighted red flags; verdicts stay server-side until revealed, and Gemini-generated messages are validated before use (offline fallback set included)
+- Confidence score, badges and a printable certificate
+- Accessibility: adjustable text size, "Simple words" mode, read aloud, large tap targets
+- Security: hashed passwords, CSRF tokens, login throttling, parameterised SQL, role-based admin area
+
+</details>
+
+<!-- CONFIRM before publishing:
+  My contribution: README says "we", so list what YOU built if this was a team entry.
+  Live demo: add only if one exists.
+  Result: add hackathon outcome only once it is announced. -->
+
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
