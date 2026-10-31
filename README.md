@@ -182,8 +182,12 @@ Right now I'm sharpening my MERN skills and working through Data Structures & Al
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arisha-Ansari&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arisha-Ansari&layout=compact&hide_border=true&bg_color=0d1117&title_color=4169E1&text_color=c9d1d9" alt="Top languages" height="165" />
+<img src="https://streak-stats.demolab.com/?user=Arisha-Ansari&theme=dark&hide_border=false&background=0d1117&border=4169E1&ring=4169E1&fire=4169E1&currStreakNum=4169E1&sideNums=4169E1&currStreakLabel=4169E1&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Arisha-Ansari/Arisha-Ansari/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" height="165" />
+<img src="https://raw.githubusercontent.com/Arisha-Ansari/Arisha-Ansari/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most committed languages" height="165" />
 
 </div>
 
